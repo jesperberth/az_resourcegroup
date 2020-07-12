@@ -28,6 +28,8 @@ None
 Example Playbook
 ----------------
 
+```ansible
+
 - hosts: localhost
   name: Create Azure Resource Group
   vars:
@@ -39,6 +41,7 @@ Example Playbook
     - name: Azure Resource Group
       include_role:
         name: az-resourcegroup
+```
 
 License
 -------
