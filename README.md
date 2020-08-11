@@ -40,7 +40,7 @@ Example Playbook
   tasks:
     - name: Azure Resource Group
       include_role:
-        name: az-resourcegroup
+        name: jesperberth.az_resourcegroup
 ```
 
 License
