@@ -1,4 +1,4 @@
-Az-resourcegroup
+Az_resourcegroup
 =========
 
 Creates a Resource Group in Microsoft Azure
