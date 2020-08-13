@@ -1,2 +1,4 @@
 ---
 # vars file for az-resourcegroup
+resourcegroup: ansiblerg  
+location: northeu
