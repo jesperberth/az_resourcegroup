@@ -1,4 +1,6 @@
 ---
 # vars file for az-resourcegroup
-resourcegroup: ansiblerg  
-location: northeu
+resourcegroup: ansible-rg
+location: northeurope
+tag_owner: jesper
+tag_project: demoproject
