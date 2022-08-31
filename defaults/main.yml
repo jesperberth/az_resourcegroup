@@ -1,2 +1,6 @@
 ---
 # defaults file for az-resourcegroup
+resourcegroup: ansible-rg
+location: northeurope
+tag_owner: owner
+tag_project: demoproject
